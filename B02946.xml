@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better observation of the Lords-Day. At the Parliament begun at Westminster, the seventeenth day of Septemb. An. Dom. 1656.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02946</idno>
+            <idno type="STC">Wing E1094C</idno>
+            <idno type="STC">ESTC R176082</idno>
+            <idno type="EEBO-CITATION">52528808</idno>
+            <idno type="OCLC">ocm 52528808</idno>
+            <idno type="VID">178776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178776)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2770:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better observation of the Lords-Day. At the Parliament begun at Westminster, the seventeenth day of Septemb. An. Dom. 1656.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iames Brown,</publisher>
+                  <pubPlace>Reprinted at Aberden :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial letter.</note>
+                  <note>Order to print dated: October quarter-sessions 1657. Signed: Christopher Powell, Cler. of the Peace.</note>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sunday legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178776:1" rendition="simple:additions"/>
+            <p>AN ACT FOR THE Better Obſervation OF THE LORDS-DAY.</p>
+            <p>At the Parliament begun at <hi>Westminſter,</hi> the ſeventeenth day of <hi>Septemb.</hi> An. Dom. 1656.</p>
+            <p>Reprinted at <hi>Aberden,</hi> by IAMES BROWN. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:178776:2"/>
+            <pb facs="tcp:178776:2"/>
+            <head>AN ACT FOR THE BEtter Obſervation OF THE LORDS-DAY.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as God hath appointed one Day in ſeaven to be kept holy unto himſelf, and that in order thereunto man ſhould abſtain from the works of his ordinarie Calling, and hath intruſted the Magiſtrate amongſt others, to take care therof within his Gates; And whereas it is found by daylie experience, that the Firſt day of the week (being the Lords Day, and ſince the Reſur<g ref="char:EOLhyphen"/>rection of Chriſt to be acknowledged the Chriſtian Sab<g ref="char:EOLhyphen"/>bath) is frequently neglected and prophaned to the diſho<g ref="char:EOLhyphen"/>nour of Chriſt, and Profeſſion of the Goſpel; Therefore for the better obſervation of the ſaid Day, and preventing
+<pb n="2" facs="tcp:178776:3"/>
+in ſome meaſure ſuch Prophanation thereof for the future, Be it enacted by his Highneſſe the Lord Protector, and the Parliament of the Co<g ref="char:cmbAbbrStroke">̄</g>monwealth of <hi>England, Scotland</hi> &amp; <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the Dominions therunto belonging, that whatſo<g ref="char:EOLhyphen"/>ever perſon or perſons within this Commonwealth ſhall be found guilty according to this Act, of doing &amp; committing the Offences herafter mentioned upon the ſaid Lords Day, that is to ſay, Betwixt Twelve of the Clock on Saturday night, and Twelve of the Clock Lords-Day night, ſhal be adjudged, deemed and taken to be guilty of prophaning the Lords-Day; That is to ſay, Every perſon being a Wag<g ref="char:EOLhyphen"/>goner, Carrier, Butcher, Higler, Drover, or any of their ſervants travelling or coming by Land or Water, into his or their Inne, Houſe or Lodging within the times aforeſaid; And every Inn-Keeper, Victualler, or Alehouſe Keeper, who ſhall lodge and entertain any ſuch W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ggon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>rier, Butcher, Higle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Drover, or their ſervants, coming &amp; travelling as aforeſaid; Every perſon uſing or imploying any Boat, Wherry, Lighter, Barge, Horſe, Coach or Sedan, or travelling or labouring with any of them upon the Day a<g ref="char:EOLhyphen"/>foreſaid (except it be to and from ſome place for the ſervice of God, or except in caſe of neceſſitie to bee allowed by ſome Iuſtice of the Peace) Every perſon being in any Ta<g ref="char:EOLhyphen"/>vern, Inn, Ale-houſe, Uictualing houſe, Strongwater-houſe, Tobaco-houſe, Cellar or Shop, (not lodging there, nor upon urgent neceſſity, to be allowed by a Iuſtice of Peace) or fet<g ref="char:EOLhyphen"/>ching or ſending for any Wine, Ale or Beer, Tobacco, Strong-water, or other ſtrong Liquor unneceſſarly, and to Tipple within any other Houſe or Shope; And the Keepers or Owners of every ſuch Houſes, Cellars or Shope-keeping or cauſing to be kept their Doors ordinarily &amp; uſually open upon the Day aforeſaid; Every perſon Dancing, or prophan<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:178776:3"/>
+Singing or Playing upon Muſical Inſtruments, or Tip<g ref="char:EOLhyphen"/>ling in any ſuch Houſes, Cellars or Shops, or elſe-where upon the Day aforeſaid, or harbouring or entertaining the perſons ſo offending; Every perſon Grinding or cauſing to be ground any Corn or Grain in any Miln, or cauſing any Fulling or other Mills to work vpon the Day aforeſaid; Add every perſon working in the Waſhing, Whiting or Drying of Clothes, Threed or Yarn, or cauſing ſuch Work to be done upon the Day aforeſaid; Every perſon ſetting up, bur<g ref="char:EOLhyphen"/>ning or branding Beet, Truf or Earth, upon the Day afore<g ref="char:EOLhyphen"/>ſaid; Every perſon gathering of Rates, Loans, Taxations, or other Payments upon the Day aforeſaid (Except to the uſe of the Poor in the Publick Collections) Every Chaundler melting or cauſing to be melted, Tallow or Wax belonging to his Calling; And every Common Brewer and Baker, Brewing and Baking, or cauſing Bread to be baked, or Beer or Ale to be brewed upon the Day aforeſaid; And every Butcher killing any Cattel, and every Butcher, Coſtermon<g ref="char:EOLhyphen"/>ger, Poulterer, Herb-ſeller, Cordwayner, Shoomaker or other perſons ſelling, expoſing or offering to ſell any their Wares or Commodities, and the perſons buying ſuch Wares or Commodities upon the Day aforeſaid; All Tay<g ref="char:EOLhyphen"/>lors and other Tradſemen, ſitting or going to ſit, or carry any wearing Apparell or other things. And Barbers Trimming upon the Day aforeſaid; All perſons-keeping, uſing or be<g ref="char:EOLhyphen"/>ing preſent upon the Day aforeſaid at any Fairs, Markets, Wakes Revels, Wreſtlings, Shootings, Leaping, Bowling, Ringing of Bells for pleaſure, or upon any other occaſion (ſa<g ref="char:EOLhyphen"/>ving for calling People together for the Publick Worſhip) Feaſts, Church-Ale, May-poles, Gaming, Bear-beating Bull-baiting, or any other Sports and Paſtimes; All perſons un<g ref="char:EOLhyphen"/>neceſſarily walking in the Church or Church-Yards, or elſe<g ref="char:EOLhyphen"/>where
+<pb n="4" facs="tcp:178776:4"/>
+in the time of Publick Worſhip; And all perſons vainly and prophanely Walking on the Day aforeſaid; And al perſo<g ref="char:cmbAbbrStroke">̄</g>s Traveling carrying Burthens, or doing any world<g ref="char:EOLhyphen"/>ly labours or work of their ordinary Calling on the Day a<g ref="char:EOLhyphen"/>foreſaid, ſhall be deemed guilty of prophaning the Lords-Day.</p>
+            <p>And it is Enacted by the Authority aforeſaid, That every perſon being of the age of Fourteen years or upwards, offen<g ref="char:EOLhyphen"/>ding in any of the premiſes, and being convicted thereof by Confeſſion, or the view of any Mayor, Head-Officer or Iu<g ref="char:EOLhyphen"/>ſtice of the Peace, or upon the Teſtimony of One or more Witneſſes upon Oath, before any ſuch Mayor, Head-Officer or Iuſtice of the peace in the County, City, Diviſion or place where the Offence ſhall be committed (which Oath the ſaid Mayor, Iuſtice of Peace or Head-Officer, ſhall and may ad<g ref="char:EOLhyphen"/>miniſter) ſhall for every ſuch Offence where-of he ſhall be ſo convicted, forfeit the Sum of Ten ſhillings: Beſides which Forfeitures, all and every perſon and perſons ſelling, expo<g ref="char:EOLhyphen"/>ſing or offering to ſell any Wares or Commodities upon the Day aforeſaid, and in like manner duly convicted, ſhall have their Wares and Commodities ſo ſold, expoſed, or offered to be ſold, ſeized and diſpoſed of as is by this Act appoin<g ref="char:EOLhyphen"/>ted.</p>
+            <p>Provided, and it is hereby Enacted and Declared, That nothing in this Act contained, ſhall extend to the prohibi<g ref="char:EOLhyphen"/>ting the dreſsing of Meat in private Families, or the dreſsing or Sale of Victuals in a moderate way in Inns, Victualing-Houſes, or Cooks Shops, for the uſe of ſuch as cannot o<g ref="char:EOLhyphen"/>therwiſe be provided for, or to the Crying or Selling of Milk before nine of the Clock in the morning, or after four of the Clock in the afternoon from the Tenth of <hi>September</hi> till the Tenth of <hi>March,</hi> or before Eight of the Clock in
+<pb n="5" facs="tcp:178776:4"/>
+the morning, or after Five of the Clock in the afternoon, from the Tenth of <hi>March</hi> till the Tenth of <hi>September</hi> year<g ref="char:EOLhyphen"/>ly; Nor to hinder any other works of Piety, Neceſſity or Mercy, to be allowed by a Iuſtice of peace.</p>
+            <p>And whereas many Navigable Rivers or Waters extend themſelves into, or are the Bounds of more Counties then one, by reaſon whereof, ſome Doubts have been raiſed, whether the Iuſtices of the Peace of any County lying on the one ſide of ſuch River have any, or how far they may have Iuriſdiction or power upon or over the ſame; Be it therefore enacted by the Authority aforeſaid, That the Iu<g ref="char:EOLhyphen"/>ſtices of Peace of any ſuch County, or the Conſtable or o<g ref="char:EOLhyphen"/>ther Officers of any Pariſh, lying on either ſide of ſuch Ri<g ref="char:EOLhyphen"/>ver, ſhall have Power and are hereby authoriſed and requi<g ref="char:EOLhyphen"/>red to put this Act in execution, for the apprehending and puniſhing of all Water-men, Barge-men, or other perſons whatſoever, who ſhall on the ſaid Day be found contrary to this Act, Travelling, Rowing, or Working in or with any Boat, Lighter, Barge, or other ſmaller Veſſel on any part of ſuch River, and the ſaid Boats, Lighters, Barges &amp; other Veſſels, ſhall ſeize and ſtay, or cauſe to be ſeized and ſtayed untill Twelve of the Clock of the ſaid Night, and untill the Penalties hereby inflicted on ſuch Perſon or per<g ref="char:EOLhyphen"/>ſons as ſhall be diſcovered to have offended therein be duly paid and ſatisfied to the Officer or Officers of that Town or Pariſh (on either ſide ſuch River) as ſhall firſt diſcover and attempt the perſuing, ſeizing or ſtaying thereof.</p>
+            <p>And it is Enacted by the Authority aforeſaid, That all Elections, Swearing and taking of place of Mayors, She<g ref="char:EOLhyphen"/>riffs, Bayliffs, Aldermen, or other Officer whatſoever, to any City, Borough, Town-Corporate, or any other place within this Commonwealth, that after the Firſt day of
+<pb n="6" facs="tcp:178776:5"/>
+               <hi>Auguſt</hi> next enſuing, by vertue or colour of any act of Par<g ref="char:EOLhyphen"/>liament, Charter, Cuſtom, Preſcription or otherwiſe, ſhould or might fall out to be upon a Lords-Day, And all Com<g ref="char:EOLhyphen"/>miſſions and Courts, which by means of any Adjournment or other cauſe; And all Returns of Writs which ſhall fall out to be upon any Lords-Day as aforeſaid, ſhall be, and ar hereby authorized and required to be kept, had and done, ſat upon, and executed upon the next day which ſhall enſue ſuch Lords-Day; And all Mayors, Recorders, Stewards, Town-Clerk, or other Officers or perſons whatſoever, that have, or after the ſaid Firſt day of <hi>August</hi> next, ſhall have Power and Authority to Elect Swear, or give any Charge or Oath for taking any ſuch Place, Oath or Office, or to keep any Courts, ſhall and may, and are hereby authorized and required to make ſuch Elections, give ſuch Oath &amp; Charge, and take ſuch Oaths, Places or Offices, or keep ſuch Courts as above-ſaid, upon the day next enſuing ſuch Lords-Day; And that all Cuſtoms, Rents and Services due to Lords of Manors, which by vertue of any Cuſtom Preſcription, or otherewiſe, are, or ought to be done performed and paid upon any Lords-Day, ſhall after the ſaid Firſt day of <hi>August</hi> next, be done, performed and paid upon the day next fol<g ref="char:EOLhyphen"/>lowing ſuch Lords-Day, and ſhall be as valid and effectual to all intents &amp; purpoſes whatſoever, as if the ſame had been done upon the ſaid Lords-Day; And that all Rents, Some of Money, Covenants and Conditions, payable or perfor<g ref="char:EOLhyphen"/>mable upon any Lords-Day, ſhall and may be paid and per<g ref="char:EOLhyphen"/>formed upon the day next enſuing ſuch Lords-Day, &amp; that ſuch Payment and performance thereof, ſhall be as good &amp; effectuall to the Law, to all intents and purpoſes, to ſave all Penalties, Re-entries or Forfeitures whatſoever, as if the ſame had been made and performed at or upon the day limi<g ref="char:EOLhyphen"/>ted
+<pb n="7" facs="tcp:178776:5"/>
+or appointed in or by any Bond, Leaſe, Covenant, Inden<g ref="char:EOLhyphen"/>ture or other Deed or Agreement whatſoever, Any Law, Uſage or Cuſtom to the contrary hereof notwithſtanding: And that no Fair, Market, or Proclamation of any Fair or Market ſhall be had, made or uſed upon any Lords-Day, but upon the day next enſuing; Nor ſhall any perſon or per<g ref="char:EOLhyphen"/>ſons ſerve, or cauſe to be ſerved, any Writ, Proceſs, Warrant, Order, Iudgement or Decree (Except in cauſes of Treaſon, Felony, Breach of the Peace, &amp; Prophanation of the Lords-Day) upon pain that every perſon and perſons, Bodies Po<g ref="char:EOLhyphen"/>litique and Corporate, offending in any the particulars laſt mentioned, ſhall forfeit the Sum of Five pounds, to be reco<g ref="char:EOLhyphen"/>vered in Name of the Lord Protector, by Bill, Plaint, Writ or Action of Debt in any Court of Record, or upon Infor<g ref="char:EOLhyphen"/>mation or Indictment before the Iuſtices of the Peace in the open Seſſions, who have hereby Power to hear and deter<g ref="char:EOLhyphen"/>mine the ſame, and to be diſpoſed; <hi>viz.</hi> One Moyety to the uſe of His Highneſs the Lord Protector, &amp; the other moye<g ref="char:EOLhyphen"/>ty to the uſe of him or them that will ſue or proſecute for the ſame; And that the ſervice of every ſuch Writ, Action, Proceſs, Warrant, Order, Iudgement or Decree ſhalbe void to all intents and purpoſes whatſoever.</p>
+            <p>And whereas many Fairs &amp; Markets are kept upon Satur<g ref="char:EOLhyphen"/>dayes and Moondays, whereby is often occaſioned the pro<g ref="char:EOLhyphen"/>phanation of the Lords-Day, It is hereby Enacted by the Authority aforeſaid, That all and every perſon and perſons reſorting to ſell or buy Commodities in any ſuch Fairs and Markets, ſhall in due time come to, &amp; depart from the ſame, and ſtrictly obſerve the Laws and Rules of the Markets, that the obſervation of the Lords-Day may not thereby be vio<g ref="char:EOLhyphen"/>lated, upon pain that every perſon travelling to or from ſuch Fairs or Markets upon the Lords-Day, and duly convicted
+<pb n="8" facs="tcp:178776:6"/>
+as aforeſaid, before one or more Iuſtices of the Peace, who have herby power by their own view, confeſſion of the par<g ref="char:EOLhyphen"/>ties, or the Oath of one or more Witneſſes (which Oath they may adminiſter) to bear and determine the ſame, ſhall forfeit for every offence the ſum of Ten ſhillings.</p>
+            <p>And to the end this Act may be duly obſerved and hence<g ref="char:EOLhyphen"/>forth put in execution, Be it Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all and every Mayor, Head-Officers, and Iuſtices of Peace within their reſpective Counties, Limits and Iuriſ<g ref="char:EOLhyphen"/>dictions, are hereby Enjoyned and Authorized from time to time under their Hands and Seals, to appoint &amp; require ſuch Church-wardens, Overſeers of the Poor, Conſtables and other perſons within their ſeverall Iuriſdictions as they ſhal think fit, to ſeize and ſecure ſuch Wares and Commodities as ſhallbe be ſold, expoſed, cryed, or offered to Sale contra<g ref="char:EOLhyphen"/>ry to this Act upon the Day aforeſaid, and to ſearch for, diſ<g ref="char:EOLhyphen"/>cover, ſecure, apprehend and bring before them, or any o<g ref="char:EOLhyphen"/>ther Iuſtice of Peace of the County or place where they ſhal be apprehended, all and every perſon &amp; perſons whom they ſhall find prophaning and violating, or ſhall know or be in<g ref="char:EOLhyphen"/>formed to have prophaned and violated the Lords-Day in any the particulars herin mentioned, or ſhall have juſt cauſe to ſuſpect for the ſame; which ſaid Warrant ſo received, the ſaid Conſtables, Tythingmen, Church-wardens, Overſeers of the poor, or either of them to whom the ſaid Warrant is or ſhall be directed, ſhall make publication of in the ſaid pa<g ref="char:EOLhyphen"/>riſh Church or Chappell Fourteen dayes before execution of the ſame, and after ſuch publication, and end of the ſaid Fourteen dayes, the ſaid Conſtables, Tythingmen or Over<g ref="char:EOLhyphen"/>ſeers of the poor ſo authorized, and every of them, are her<g ref="char:EOLhyphen"/>by required and authorized, to do and perform their duties accordingly, without expecting any particular Warrant for
+<pb n="9" facs="tcp:178776:6"/>
+the ſame, upon ſuch pains and penalties as are hereafter in this Act inflicted upon wilfull neglectors of their duty.</p>
+            <p>And for the better execution of the powers aforeſaid, The Conſtables, Churchwarden or Overſeer of the Poor ſo authorized, are hereby required and authorized, to de<g ref="char:EOLhyphen"/>mand Entrance into any Dwelling-houſe, or other place whatſoever ſuſpected by them to harbor, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of ſuffer to be any perſon or perſons prophaning the Lords-Day; And if ſuch Entrance be either wilfully delayed or refuſed, all and every perſon or perſons ſo delaying or refuſing, be<g ref="char:EOLhyphen"/>ing convicted thereof (as by this Act is appointed) ſhall forfeit the ſum of Twenty ſhillings</p>
+            <p>And all Church-wardens and Overſeers of the Poor, and Conſtables within their ſeveral Limits, are hereby Injoyned and Authorized upon their own view &amp; knowledge, as well with Warrant as without, to ſeize and ſecure all ſuch Wares and Commodities ſold, expoſed or offered to be ſold, and to apprehend, ſecure and ſtop all offenders againſt this Law, with their Horſes and Carriages (if any ſuch ſhall be) and after apprehenſion, to bring ſuch Offenders before any Iu<g ref="char:EOLhyphen"/>ſtice of Peace, to be dealt with according to the Directions of this Act, unleſs the Offender ſhall forthwith pay the Penalty forfeited by this Act to ſuch Officer.</p>
+            <p>And it is Enacted by the Authority aforeſaid, That if any Children or Servants under the Age of Fourteen years, of<g ref="char:EOLhyphen"/>fending in any the offences within this Act mentioned, and thereof convicted before any Mayor, Head-Officer, or any one or more Iuſtices of the Peace as aforeſaid, the Parents, Guardians, Maſters, Miſtreſſes or Tutors of all ſuch Chil<g ref="char:EOLhyphen"/>dren and Servants, ſhall forfeit the Sum of One ſhilling for every ſuch Servant or Child ſo offending &amp; thereof convict<g ref="char:EOLhyphen"/>ed aforeſaid unleſs ſuch Parent, Guardian, Maſter, Miſtreſs
+<pb n="10" facs="tcp:178776:7"/>
+or Tutor, ſhall in the preſence of the Church-wardens, O<g ref="char:EOLhyphen"/>verſeers for the Poor, or other Officer, or one of them, give or cauſe to be given unto ſuch Child or Servant ſo offending due Correction.</p>
+            <p>And to the end that no prophane licentious perſon or per<g ref="char:EOLhyphen"/>ſo<g ref="char:cmbAbbrStroke">̄</g>s whatſoever, may in the leaſt meaſure receive encourage<g ref="char:EOLhyphen"/>ment to neglect the performance of religious &amp; holy Duties on the ſaid Day, by colour of any Law or Laws giving Li<g ref="char:EOLhyphen"/>berty to truly Tender-Conſciences, Be it Enacted by the Authority aforeſaid, That all and every perſon and perſons ſhall (having no reaſonable excuſe for their abſence, to be allowed by a Iuſtice of Peace of the County where the of<g ref="char:EOLhyphen"/>fence ſhall be committed) upon every Lords-Day diligently reſort to ſome Church or Chappel where the true Worſhip and Service of God is exerciſed, or ſhall be preſent at ſome other convenient Meeting-place of Chriſtians, not diffe<g ref="char:EOLhyphen"/>ring in matters of Faith from the Publick Profeſſion of the Nation, as it is expreſſed in the humble Petition &amp; Advice of the Parliament to his Highnes the Lord Protector, wher the Lords-Day ſhall be duly ſanctified, according to the true intent and meaning of this Act, upon pain that all and every ſuch perſon or perſons ſo offending, ſhall for eve<g ref="char:EOLhyphen"/>ry ſuch Offence, being thereof convicted, forfeit the ſum of Two ſhillings and ſix pence.</p>
+            <p>And it is Enacted by the Authority aforeſaid, That no perſon being the Miniſter or publick Preacher of, or in any Church, Chappell, or publick Congregation within this Commonwealth, and officiating and doing his Duty there<g ref="char:EOLhyphen"/>in upon any Lords-Day, or at any othertimes, ſhal be mo<g ref="char:EOLhyphen"/>leſted, hindred, or diſturbed therein by any perſon whatſo<g ref="char:EOLhyphen"/>ever; And if any perſon or perſons ſhall after the Firſt day of <hi>Auguſt</hi> next enſuing, maliciouſly, wilfully, or of pur<g ref="char:EOLhyphen"/>poſe
+<pb n="11" facs="tcp:178776:7" rendition="simple:additions"/>
+moleſt, lett diſturb, diſquiet or otherwiſe trouble any ſuch Miniſter or Publique Preacher in the doing and per<g ref="char:EOLhyphen"/>forming the Duty of their reſpective Places, or in his go<g ref="char:EOLhyphen"/>ing to, or returning from ſuch place, or make or cauſe to be made any publique diſturbance in any part of the Lords day in any of the places aforeſaid, It ſhall and may be lawful to and for any Church-warden, Overſeer of the Poor, or Con<g ref="char:EOLhyphen"/>ſtable of the Pariſh &amp; Place where ſuch Moleſtation, Diſtur<g ref="char:EOLhyphen"/>bance and Diſquieting ſhall be, and they are hereby enjoy<g ref="char:EOLhyphen"/>ned to apprehend all and every perſon and perſons offending therein, or in caſe of eſcape before ſuch Apprehenſion, for the Church-wardens, Overſeers of the Poor, or Conſtables of any other Pariſh or Place where ſuch Offender ſhall: be found, to apprehend them and every of them, as well with<g ref="char:EOLhyphen"/>out Warrant as with Warrant, and bring them before the Mayor, or any Iuſtice of the Peace or Head-Officer where any ſuch perſon and perſons ſhall be apprehended; And if ſuch Mayor, Iuſtice or Head-Officer ſhall find cauſe upon his own view, Confeſſion of the party, or the Oath of one or more ſufficient Witneſſes (which Oath he ſhall have her<g ref="char:EOLhyphen"/>by power to adminiſter) then he ſhall commit ſuch perſon to Priſon, there to remain without Bail or Mainprize untill the next General Seſſions of the Peace to be holden for the County, City or place where the Offence ſhall be commit<g ref="char:EOLhyphen"/>ted; And if upon Information, Preſentment or Indictment, ſuch perſon or perſons ſhall at the General Seſſions of the Peace (who have hereby power to hear and determine the ſame by Confeſſion or Oath of two or more ſufficient Wit<g ref="char:EOLhyphen"/>neſſes) be found guilty for maliciouſly, wilfully, or of pur<g ref="char:EOLhyphen"/>poſe moleſting, letting, diſturbing or otherwiſe troubling ſuch Miniſter or Publique Preacher, or making any diſtur<g ref="char:EOLhyphen"/>bance as aforeſaid, every perſon ſo convicted, ſhall forfeit
+<pb n="12" facs="tcp:178776:8"/>
+the ſum of Five pounds, One moiety to the uſe of his High<g ref="char:EOLhyphen"/>neſſe the Lord Protector, and the other moiety to him or them that will ſue or proſecute for the ſame; or at the diſ<g ref="char:EOLhyphen"/>cretion of the ſaid Iuſtices, ſhall be ſent to the houſe of Correction or Work-houſe, to be ſet to hard Labour, with ſuch moderate Correction, as in the diſcretion of the ſaid Iuſtices ſhall be thought fit, for ſome time, not exceeding ſix moneths.</p>
+            <p>And it is Enacted by the Authority aforeſaid, That all perſons Contriving, Printing or Publiſhing any Papers, Books, or Pamphlets for allowance of Sports and Paſtimes upon the Lords-Day, or againſt the Morality thereof, ſhall forfeit the ſum of Five pounds, or be co<g ref="char:cmbAbbrStroke">̄</g>mitted to the houſe of Correction as aforeſaid.</p>
+            <p>And it is Enacted by the Authority aforeſaid, That in caſe any Wares or Commodities ſhall be ſeized and ſecu<g ref="char:EOLhyphen"/>red for being ſold, expoſed or offered to be ſold co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trary to this Act, and the Offenders therein convicted as afore<g ref="char:EOLhyphen"/>ſaid, All ſuch Wares and Commodities, or the value thereof, at the diſcretion of the Mayor, Head-Officer or Iu<g ref="char:EOLhyphen"/>ſtice, ſhall be diſpoſed of to the uſe of the poor of the Pariſh where ſuch Wares ſhall be firſt feized, Saving that it ſhall be in the Power of ſuch Mayor, Iuſtice of Peace or Head-Offi<g ref="char:EOLhyphen"/>cer, out of the ſame to reward any perſon that ſhall Inform, or otherewiſe Proſecute any perſon for the ſaid Offence ac<g ref="char:EOLhyphen"/>cording to their diſcretion, ſo as ſuch Reward exceed not the Third part of the Wares and Commodities ſo ſeized, and ſo as no Reward be given to any perſon upon whoſe Oath on<g ref="char:EOLhyphen"/>ly the Offender ſhall be convicted; And all Sums of Money, and Forfeitures not otherewiſe diſpoſed of by this Act, ſhal be imployed for the uſe of the Poor of the Pariſh where the ſeveral Offences ſhall be committed, Saving only that it ſhal
+<pb n="13" facs="tcp:178776:8"/>
+be lawful to and for any Mayor, Iuſtice of Peace or Head-Officer, out of the ſaid Forfeitures, to reward any ſuch per<g ref="char:EOLhyphen"/>ſons that ſhall Inform, or otherewiſe Proſecute any perſons for the ſame, according to their diſcretion, ſo as ſuch Reward exceed not the third part of the Forfeiture, &amp; ſo as no reward be given to any perſon upon whoſe Oath only the Offender ſhal be convicted. Provided alwayes, That no perſon or per<g ref="char:EOLhyphen"/>ſons ſhall be impeached or moleſted for any Offence with<g ref="char:EOLhyphen"/>in this Act, unleſs he or they be thereof convicted with<g ref="char:EOLhyphen"/>in One Moneth after the Offence committed.</p>
+            <p>And it is Enacted by the Authority aforeſaid, That all Mayors, Iuſtices of the Peace, Head-Officers, the Gover<g ref="char:EOLhyphen"/>nours of Inns of Court and Chancery, all Maſters and Go<g ref="char:EOLhyphen"/>vernours of Schools and Families, and the Governours of the Company of Water-men for the River of Thames (who for the purpoſes in this Act mentioned, ſhall have the Power of Conſtables upon the ſaid River, and upon any Keys, Wharfs or Banks thereof) and all other Officers &amp; perſons herein concerned, are hereby enjoyned and authorized with<g ref="char:EOLhyphen"/>in their ſeveral Limits and Iuriſdictions, to ſee this Act put in due and ſpeedy execution, upon pain that all and every perſon and perſons neglecting to do his and their reſpective duties, in putting this Act in due and ſpeedy execution, being thereof duly convicted by Bill, Plaint, Writ or Action of Debt, in any Court of Record, or upon Preſentment, Infor<g ref="char:EOLhyphen"/>mation or Indictment before any Iuſtices of the Peace in their open Seſſions (who have hereby power to hear and de<g ref="char:EOLhyphen"/>termine the ſame (ſhall forfeit the ſum of Five pounds; one moiety whereof ſhall be to the uſe of his Highneſſe the Lord Protector, and the other moiety to him or them that will proſecute for the ſame.</p>
+            <p>And it is hereby Enacted by the Authority aforeſaid, That
+<pb n="14" facs="tcp:178776:9"/>
+no Writ of <hi>Certiorari</hi> ſhall be granted or allowed for the re<g ref="char:EOLhyphen"/>moving any Action, Suit, Preſentment, Information, Indict<g ref="char:EOLhyphen"/>ment, or any other Proceedings againſt any perſon for of<g ref="char:EOLhyphen"/>fending againſt this Law; And that in any Action brought againſt any Iuſtice of Peace, Church-wardens, Overſeers of the Poor, Conſtables, or any other Officers or perſons what<g ref="char:EOLhyphen"/>ſoever, for acting or doing, or commanding to be acted or done, any matter or thing in purſuance of this Act, or for being aiding or aſſiſting thereunto, the Defendant in every ſuch Action ſhall &amp; may plead the general Iſſue, &amp; give the ſpecial Matter in Evidence, and upon <hi>Non-ſuit</hi> of the Plain<g ref="char:EOLhyphen"/>tiff, or Uerdict paſſing for the Defendant, the Defendant ſhal have and recover his and their treble Coſts.</p>
+            <p>And it is laſtly Enacted, that the Church-wardens, or o<g ref="char:EOLhyphen"/>ther Officers of every Pariſh within this Commonwealth, do at the charge of the Pariſh procure one or more of theſe Acts to be ſafely kept in their reſpective Pariſhes; and the Miniſters of each pariſh are hereby enjoyned in every year, that is to ſay, Upon the firſt Lords-Day in <hi>March</hi> yearly, immediately before the Morning Sermon, to read, or cauſe to be read this preſent Act.</p>
+            <p>Provided, That this Act ſhall not extend to authorize or impower any Conſtable or Officer, without the ſpecial war<g ref="char:EOLhyphen"/>rant of one or more Iuſtice or Iuſtices of the peace, to enter or demand Entrance into any Houſe upon pretence of execu<g ref="char:EOLhyphen"/>tion of his or their Office by vertue of this Act, other then in<g ref="char:EOLhyphen"/>to Taverns, Inns, Ale-houſes, Tobacco-ſhops Uictualling, houſes or Tipling-houſes Any thing in this Act to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <head>October Quarter-Seſſions 1657.</head>
+            <p>ORdered that this Act of Parliament be forthwith Reprinted for the benefit of the Shire of <hi>Aberdene.</hi>
+            </p>
+            <closer>
+               <signed>Ordered by the Court. <hi>Chriſtopher Powell,</hi> Cler. of the Peace.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
